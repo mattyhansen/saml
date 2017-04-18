@@ -1,8 +1,14 @@
 # Resources
 
-
+## Service Provider
 - https://packagist.org/packages/simplesamlphp/saml2
 - https://simplesamlphp.org/docs/stable/simplesamlphp-sp
+- http://stackoverflow.com/questions/34036346/saml-sso-in-cakephp-application
+
+
+## Identity Provider (with G Suite)
+- https://help.receptive.io/hc/en-us/articles/212188369-How-to-set-up-Google-G-Suite-as-your-SAML-Identity-Provider
+- https://robinpowered.com/blog/how-to-set-up-saml-with-google-apps/
 
 
 
