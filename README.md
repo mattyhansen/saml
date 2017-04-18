@@ -1,5 +1,10 @@
 # Resources
 
+## SAML 101
+- (SAML 101: What It Is, How It Works & Why It's Important)[https://www.youtube.com/watch?v=50ogFCF56qE] (youtube)
+- (SAML for Web Developers)[https://github.com/mattyhansen/saml/blob/master/saml-for-web-developers.md]
+- 
+
 ## Install SimpleSAMLphp
 - https://github.com/mattyhansen/saml/blob/master/setup-simplesamlphp.md
 - https://simplesamlphp.org/docs/stable/simplesamlphp-install
