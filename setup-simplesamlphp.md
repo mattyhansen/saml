@@ -48,7 +48,7 @@ Ensure the saml vhost has the following:
 
 There is a few steps that you should edit in the main configuration file, config.php, right away:
 
-**1) password**
+**1) Password**
 
 Set a administrator password. This is needed to access some of the pages in your SimpleSAMLphp installation web interface.
 ```
@@ -57,7 +57,7 @@ Set a administrator password. This is needed to access some of the pages in your
 
 Hashed passwords can also be used here. See the authcrypt documentation for more information.
 
-**2) salt**
+**2) Salt**
 
 Set a secret salt. This should be a random string. Some parts of the SimpleSAMLphp needs this salt to generate cryptographically secure hashes. SimpleSAMLphp will give an error if the salt is not changed from the default value. The command below can help you to generated a random string on (some) unix systems:
 ```
@@ -68,7 +68,7 @@ Here is an example of the config option:
 'secretsalt' => 'randombytesinsertedhere',
 ```
 
-**3) contact**
+**3) Contact (optional)**
 
 Set technical contact information. This information will be available in the generated metadata. The e-mail address will also be used for receiving error reports sent automatically by SimpleSAMLphp. Here is an example:
 ```
@@ -78,12 +78,7 @@ Set technical contact information. This information will be available in the gen
 If you use SimpleSAMLphp in a country where English is not widespread, you may want to change the default language from English to something else:
 
 
-**4) language**
-```
-'language.default'      => 'no',
-```
-
-**5) timezone**
+**4) Timezone (optional)**
 Set the timezone which you use:
 ```
 'timezone' => 'UTC',
