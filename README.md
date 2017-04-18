@@ -1,5 +1,9 @@
 # Resources
 
+## install SimpleSAMLphp
+
+- https://simplesamlphp.org/docs/stable/simplesamlphp-install
+
 ## Service Provider
 - https://packagist.org/packages/simplesamlphp/saml2
 - https://simplesamlphp.org/docs/stable/simplesamlphp-sp
