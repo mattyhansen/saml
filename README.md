@@ -3,6 +3,11 @@
 ## Service Provider
 - https://packagist.org/packages/simplesamlphp/saml2
 - https://simplesamlphp.org/docs/stable/simplesamlphp-sp
+
+## Symfony integration
+- https://www.lightsaml.com/SP-Bundle/Getting-started/
+
+## Cakephp integration
 - http://stackoverflow.com/questions/34036346/saml-sso-in-cakephp-application
 
 
