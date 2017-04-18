@@ -1,7 +1,7 @@
 # Resources
 
 
-- https://github.com/simplesamlphp/saml2
+- https://packagist.org/packages/simplesamlphp/saml2
 - https://simplesamlphp.org/docs/stable/simplesamlphp-sp
 
 
