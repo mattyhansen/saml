@@ -9,6 +9,7 @@
 
 ## Cakephp integration
 - http://stackoverflow.com/questions/34036346/saml-sso-in-cakephp-application
+- https://github.com/zl4bv/CakePHP-simpleSAMLphp-Plugin
 
 
 ## Identity Provider (with G Suite)
@@ -16,6 +17,7 @@
 - https://robinpowered.com/blog/how-to-set-up-saml-with-google-apps/
 
 
+(below from https://github.com/jch/saml)
 
 # SAML for Web Developers
 
