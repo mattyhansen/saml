@@ -1,4 +1,13 @@
+# Resources
+
+
+- https://github.com/simplesamlphp/saml2
+- https://simplesamlphp.org/docs/stable/simplesamlphp-sp
+
+
+
 # SAML for Web Developers
+
 
 Interested in adding SAML (Security Assertion Markup Language) support to your
 app? This post explains the basic single sign-on flows for web applications. If
