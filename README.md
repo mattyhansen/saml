@@ -19,8 +19,9 @@
 - https://www.lightsaml.com/SP-Bundle/Getting-started/
 
 ## Cakephp integration
+- (cakephp 3) https://bitbucket.org/cvo-technologies/cakephp-simplesaml
 - http://stackoverflow.com/questions/34036346/saml-sso-in-cakephp-application
-- https://github.com/zl4bv/CakePHP-simpleSAMLphp-Plugin
+- (cakephp 2) https://github.com/zl4bv/CakePHP-simpleSAMLphp-Plugin
 
 
 ## Identity Provider (with G Suite)
