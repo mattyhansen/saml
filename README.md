@@ -3,8 +3,10 @@
 ## Service Provider
 - https://packagist.org/packages/simplesamlphp/saml2
 - https://simplesamlphp.org/docs/stable/simplesamlphp-sp
+- https://www.lightsaml.com/LightSAML-Core/Cookbook/
 
 ## Symfony integration
+- https://github.com/lightSAML/SpBundle
 - https://www.lightsaml.com/SP-Bundle/Getting-started/
 
 ## Cakephp integration
