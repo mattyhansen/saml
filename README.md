@@ -1,7 +1,7 @@
 # Resources
 
-## install SimpleSAMLphp
-
+## Install SimpleSAMLphp
+- https://github.com/mattyhansen/saml/blob/master/setup-simplesamlphp.md
 - https://simplesamlphp.org/docs/stable/simplesamlphp-install
 
 ## Service Provider
